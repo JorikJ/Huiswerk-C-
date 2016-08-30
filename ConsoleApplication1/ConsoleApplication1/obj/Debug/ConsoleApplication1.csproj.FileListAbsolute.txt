@@ -1,0 +1,15 @@
+\\tsclient\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\tsclient\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\tsclient\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\tsclient\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\tsclient\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\tsclient\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
