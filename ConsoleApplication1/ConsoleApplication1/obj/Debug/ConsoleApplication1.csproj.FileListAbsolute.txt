@@ -13,3 +13,6 @@ C:\Users\Jorik\Desktop\Informatica jaar 2\Programmeren 5\ConsoleApplication1\Con
 C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jorik\Desktop\Informatica jaar 2\GithubC#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

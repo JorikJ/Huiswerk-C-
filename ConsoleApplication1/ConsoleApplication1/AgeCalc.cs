@@ -10,6 +10,11 @@ namespace ConsoleApplication1
     {
         private String input;
         private DateTime birthdate;
+
+
+
+      
+
         public AgeCalc(String input)
         {
             this.input = input;
@@ -18,15 +23,22 @@ namespace ConsoleApplication1
 
         // checks if input is date
         public Boolean check()
+            
+            
         {
+            
             Boolean date = false;
 
             try
             {
-                birthdate = DateTime.Parse(input);
-                date = true;
+              
+                this.birthdate = DateTime.Parse(input);
+                if (birthdate.CompareTo(DateTime.Now) == -1) {
+                    date = true;
 
-                calculateAge();
+                    calculateAge();
+                }
+
 
             }
             catch { 
